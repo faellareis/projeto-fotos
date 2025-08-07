@@ -19,4 +19,3 @@ Este projeto exibe um carrossel automático de fotos de eventos utilizando HTML,
 ---
 ## Autor 
 - [Rafaella Reis](https://github.com/faellareis)
-# projeto-fotos
